@@ -33,3 +33,28 @@ a{
 #How p{
     font-size: 35px;
 }
+
+#phone{
+    height: 90px;
+    width: 120px;
+}
+
+#tap{
+    height: 90px;
+    width: 120px;
+}
+
+#tv{
+    height: 90px;  
+    width: 120px;
+}
+
+#question{
+    font-family: 'Caveat Brush', cursive;
+    color: #0e00fe;
+    font-size: 40px;
+}
+
+#pic{
+    flex-direction: row-reverse;
+}
